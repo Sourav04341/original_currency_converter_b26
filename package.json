@@ -1,0 +1,18 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "This currency converter app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm123"
+  ],
+  "author": "sourav",
+  "license": "ISC",
+  "dependencies": {
+    "@everapi/currencyapi-js": "^1.0.6"
+  }
+}
